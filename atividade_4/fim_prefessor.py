@@ -23,9 +23,9 @@ while True:
             soma += nota
             quantidade += 1
         else:
-            print("❌ Nota inválida! Digite um valor entre 0 e 10.")
+            print(" Nota inválida! Digite um valor entre 0 e 10.")
     except ValueError:
-        print("❌ Entrada inválida! Digite um número ou 'fim'.")
+        print(" Entrada inválida! Digite um número ou 'fim'.")
 
 # Cálculo da média
 if quantidade > 0:
