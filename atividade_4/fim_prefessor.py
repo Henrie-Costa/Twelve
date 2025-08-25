@@ -15,7 +15,7 @@ while True:
     entrada = input("Digite a nota (ou 'fim' para encerrar): ")
 
     if entrada.lower() == "fim":
-        break  # encerra o loop
+        break  #
 
     try:
         nota = float(entrada)
