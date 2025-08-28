@@ -4,8 +4,8 @@
 calcular_gorjeta = lambda valor_conta, porcentagem_gorjeta: valor_conta * (porcentagem_gorjeta / 100)
 
 
-valor = float(input("Digite o valor da conta: "))
-porcentagem = float(input("Digite a porcentagem da gorjeta: "))
+valor = float(input("Digite o valor da conta (Ex: R$ 50.00): R$ "))
+porcentagem = float(input("Digite a porcentagem da gorjeta (Ex: 15.0 %): "))
 
 gorjeta = calcular_gorjeta(valor, porcentagem)
 print(f"Para a Conta de R$ {valor}, A gorjeta deve ser de R$ {gorjeta:.2f}")

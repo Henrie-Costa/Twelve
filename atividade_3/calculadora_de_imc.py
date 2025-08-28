@@ -20,7 +20,7 @@ if imc < 18.5:
 elif imc < 25:
     classificacao = "peso normal"
 elif imc < 30:
-    classificacao = sobrepeso
+    classificacao = "sobrepeso"
 else:
     classificacao = "obeso"
 print(f"seu imc é {imc:.1f}")
