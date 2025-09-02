@@ -1,0 +1,32 @@
+[
+    {
+        "nome": "Henrique",
+        "idade": 30,
+        "cidade": "São Paulo"
+    },
+    {
+        "nome": "Maria",
+        "idade": 25,
+        "cidade": "Rio de Janeiro"
+    },
+    {
+        "nome": "João",
+        "idade": 45,
+        "cidade": "Belo Horizonte"
+    },
+    {
+        "nome": "Ana",
+        "idade": 28,
+        "cidade": "Curitiba"
+    },
+    {
+        "nome": "Bruno",
+        "idade": 35,
+        "cidade": "Maceió"
+    },
+    {
+        "nome": "Oculos do Bruno",
+        "idade": 1,
+        "cidade": "Banheiro"
+    }
+]
